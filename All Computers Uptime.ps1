@@ -1,6 +1,5 @@
 ﻿######################################################################################################################################
-# created by Proph3tt 3-3-20
-# last modified by Proph3tt on 3-3-20                                                     
+# created by Elias 3-3-20                                              
 #
 # This script gets the time every computer was last restarted.
 # To do this locally, you can use the following code and run it as a script:
